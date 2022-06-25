@@ -20,7 +20,7 @@ The execution times for the Stock Analyis were very close in timing.
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/106033535/175792655-af3ab832-402c-40ad-ac70-33dce3add272.png)
 
-##Summary
+## Summary
 
 The advantages of refactoring the original code are saving time and money, helps find bugs, and reducing complexity for an  easier understanding. Clean code is much easier to update and improve. Some of the disadvantages are possible time constraints where it's better to leave the code rather than dupicate or not have enough time to test the rewritten code. Another con is to create bugs in already working code. Refactoring my original code improved the run time and was much easier to understand. 
 
